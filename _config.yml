@@ -1,0 +1,9 @@
+title: RLTV 개발 기록
+description: 언리얼 엔진 5로 로그라이크 탑뷰 게임을 만드는 과정 기록
+baseurl: "/devlog"
+url: "https://JJW7735.github.io"
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
+show_excerpts: true  
